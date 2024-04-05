@@ -1,0 +1,16 @@
+.col-md-6 {
+    background-color: rgb(247, 204, 244);
+}
+
+.col-md-6 h1{
+    background-color: rgb(244, 62, 229);
+    color: white;
+}
+
+.text-center{
+    background-color: rgb(247, 195, 253);
+}
+
+.container .table .thead tr{
+    background-color: plum;
+}
